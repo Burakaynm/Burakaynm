@@ -45,54 +45,6 @@ I work mainly with backend development, RESTful APIs, frontend applications and 
 
 ---
 
-### 🚀 Featured Projects
-
-#### [Burak Ay Portfolio](https://github.com/Burakaynm/burakAy-portfolio)
-
-A modern and responsive personal portfolio website developed to present my software development experience, technical skills, and selected projects.
-
-- Built with React, TypeScript, Vite and Tailwind CSS
-- Includes professional hero, about, experience, skills, projects and contact sections
-- Uses a reusable component-based frontend structure
-- Deployed on Vercel
-
-#### [TaskFlow API](https://github.com/Burakaynm/taskflow-api)
-
-A Spring Boot based RESTful backend project developed for task management operations.
-
-- Built with Java 17, Spring Boot, Spring Data JPA and PostgreSQL
-- Supports task creation, listing, updating and deletion
-- Includes request validation and global exception handling
-- Provides Swagger/OpenAPI documentation
-
-#### [BudgetFlow API](https://github.com/Burakaynm/budgetflow-api)
-
-A personal budget tracking backend application developed with Python and FastAPI.
-
-- Supports income and expense management
-- Provides date-based filtering, monthly summaries and category-based reports
-- Uses SQLite, SQLAlchemy and Pydantic for persistence and validation
-- Includes Excel report generation with OpenPyXL
-- Contains a test structure with Pytest
-
-#### [Words of Wonders - PixiJS Game](https://github.com/Burakaynm/wow-pixijs)
-
-A browser-based word puzzle game project developed with PixiJS.
-
-- Built with JavaScript and PixiJS
-- Focuses on canvas-based game rendering
-- Demonstrates basic game logic, UI interaction and frontend animation structure
-
-#### [Seesaw Simulation](https://github.com/Burakaynm/seesaw-simulation)
-
-A pure JavaScript simulation project developed to model a seesaw-like physical interaction.
-
-- Built with vanilla JavaScript
-- Focuses on DOM/canvas-based interaction logic
-- Demonstrates algorithmic thinking and simulation-oriented frontend development
-
----
-
 ### 📫 Contact Me
 
 <p align="left">
