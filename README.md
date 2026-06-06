@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Burak Ay 👋</h1>
+<h1 align="center">Hi, I'm Burak Ay</h1>
 
 <h3 align="center">
 Full Stack Developer | Java & Spring Boot | .NET | React | TypeScript
@@ -47,50 +47,59 @@ I work mainly with backend development, RESTful APIs, frontend applications and 
 
 ### 🚀 Featured Projects
 
-#### BudgetFlow
-A full-stack personal finance management application built with **FastAPI, React, SQLite and Excel export features**.
+#### [Burak Ay Portfolio](https://github.com/Burakaynm/burakAy-portfolio)
 
-- Income and expense tracking
-- Monthly financial summaries
-- Category-based reports
-- Excel export functionality
+A modern and responsive personal portfolio website developed to present my software development experience, technical skills, and selected projects.
 
-#### Employee Evaluation System
-A business-oriented evaluation form system developed with **React, TypeScript, .NET and SQL Server**.
+- Built with React, TypeScript, Vite and Tailwind CSS
+- Includes professional hero, about, experience, skills, projects and contact sections
+- Uses a reusable component-based frontend structure
+- Deployed on Vercel
 
-- Dynamic form rendering
-- Employee-based evaluation tracking
-- PDF and Excel export
-- Validation and reporting features
+#### [TaskFlow API](https://github.com/Burakaynm/taskflow-api)
 
-#### MIPS Assembler
-A Python-based assembler developed for a MIPS CPU architecture project.
+A Spring Boot based RESTful backend project developed for task management operations.
 
-- Instruction parsing
-- Label handling
-- R-type, I-type and branch/jump instruction support
+- Built with Java 17, Spring Boot, Spring Data JPA and PostgreSQL
+- Supports task creation, listing, updating and deletion
+- Includes request validation and global exception handling
+- Provides Swagger/OpenAPI documentation
 
----
+#### [BudgetFlow API](https://github.com/Burakaynm/budgetflow-api)
 
-### 📊 GitHub Stats
+A personal budget tracking backend application developed with Python and FastAPI.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Burakaynm&show_icons=true&theme=tokyonight" />
-</p>
+- Supports income and expense management
+- Provides date-based filtering, monthly summaries and category-based reports
+- Uses SQLite, SQLAlchemy and Pydantic for persistence and validation
+- Includes Excel report generation with OpenPyXL
+- Contains a test structure with Pytest
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burakaynm&layout=compact&theme=tokyonight" />
-</p>
+#### [Words of Wonders - PixiJS Game](https://github.com/Burakaynm/wow-pixijs)
+
+A browser-based word puzzle game project developed with PixiJS.
+
+- Built with JavaScript and PixiJS
+- Focuses on canvas-based game rendering
+- Demonstrates basic game logic, UI interaction and frontend animation structure
+
+#### [Seesaw Simulation](https://github.com/Burakaynm/seesaw-simulation)
+
+A pure JavaScript simulation project developed to model a seesaw-like physical interaction.
+
+- Built with vanilla JavaScript
+- Focuses on DOM/canvas-based interaction logic
+- Demonstrates algorithmic thinking and simulation-oriented frontend development
 
 ---
 
 ### 📫 Contact Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/burakay/" target="_blank">
+<a href="https://www.linkedin.com/in/ayburak/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="mailto:yourmail@example.com">
+<a href="mailto:burakaynm@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 </p>
