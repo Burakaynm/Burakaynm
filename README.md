@@ -32,7 +32,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,react,ts,js,mui,postgres,sqlserver,docker,git,azure,linux&perline=7" alt="Tech Stack" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,cs,dotnet,react,ts,js,mui,postgres,sqlserver,docker,git,azure,linux&perline=7" alt="Tech Stack" />
 </p>
 
 ---
