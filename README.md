@@ -8,11 +8,19 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayburak)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burakaynm@gmail.com)
-<a href="https://burak-ay-portfolio.vercel.app/">
-  <img height="36" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/ayburak">
+    <img align="absmiddle" alt="LinkedIn" height="28" src="..." />
+  </a>
+  &nbsp;
+  <a href="mailto:burakaynm@gmail.com">
+    <img align="absmiddle" alt="Email" height="28" src="..." />
+  </a>
+  &nbsp;
+  <a href="https://burak-ay-portfolio.vercel.app/">
+    <img align="absmiddle" alt="Portfolio" height="34" src="..." />
+  </a>
+</p>
 
 </div>
 
