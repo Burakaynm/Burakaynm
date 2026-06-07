@@ -8,9 +8,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayburak)
-[![Gmail](https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burakaynm@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://burak-ay-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayburak)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burakaynm@gmail.com)
+<a href="https://burak-ay-portfolio.vercel.app/">
+  <img height="32" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
 
