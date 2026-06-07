@@ -32,7 +32,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,react,ts,js,mui,postgres,mssql,docker,git,azure,linux&perline=7" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,react,ts,js,mui,postgres,sqlserver,docker,git,azure,linux&perline=7" alt="Tech Stack" />
 </p>
 
 ---
@@ -50,11 +50,9 @@
 
 ### 🐍 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/burakaynm/burakaynm/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/burakaynm/burakaynm/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/burakaynm/burakaynm/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Burakaynm/Burakaynm/main/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
