@@ -37,19 +37,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Burakaynm&show_icons=true&theme=tokyo_night&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Burakaynm&theme=tokyo_night&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burakaynm&layout=compact&theme=tokyo_night&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
 ### 🚀 Featured Projects
 
 | Project                                                               | Description                                                                       | Stack                                       |
@@ -64,9 +51,9 @@
 ### 🐍 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Burakaynm/Burakaynm/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Burakaynm/Burakaynm/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Burakaynm/Burakaynm/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/burakaynm/burakaynm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/burakaynm/burakaynm/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/burakaynm/burakaynm/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
