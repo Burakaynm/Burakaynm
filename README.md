@@ -10,15 +10,15 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ayburak">
-    <img align="absmiddle" alt="LinkedIn" height="28" src="..." />
+    <img align="absmiddle" alt="LinkedIn" height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:burakaynm@gmail.com">
-    <img align="absmiddle" alt="Email" height="28" src="..." />
+    <img align="absmiddle" alt="Email" height="28" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://burak-ay-portfolio.vercel.app/">
-    <img align="absmiddle" alt="Portfolio" height="34" src="..." />
+    <img align="absmiddle" alt="Portfolio" height="34" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
