@@ -1,57 +1,80 @@
-<h1 align="center">Hi, I'm Burak Ay</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer | Java & Spring Boot | .NET | React | TypeScript
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Burak+Ay+%F0%9F%91%8B;Full+Stack+Developer;Java+%7C+.NET+%7C+React+%7C+TypeScript" alt="Typing SVG" />
 
-<p align="center">
-I am a Computer Engineer focused on building scalable, maintainable and user-oriented software systems.
-I work mainly with backend development, RESTful APIs, frontend applications and database-driven systems.
-</p>
+<br/>
+
+**Computer Engineer** building scalable, maintainable and user-oriented software systems.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayburak)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burakaynm@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://burak-ay-portfolio.vercel.app/)
+
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Engineering graduate  
-- 💼 Software Engineer at RDC Partner  
-- 🔭 Currently working with **React, TypeScript, .NET and SQL Server**
-- 🌱 Improving myself in **Java, Spring Boot, Microservices and DevOps**
-- 🧠 Interested in backend architecture, clean code and real-world business applications
-- 🚀 Building personal projects to strengthen my full-stack development skills
+```text
+🎓  Computer Engineering graduate
+💼  Software Engineer @ RDC Partner
+🔭  Working with React, TypeScript, .NET & SQL Server
+🌱  Learning Java, Spring Boot, Microservices & DevOps
+🧠  Passionate about backend architecture & clean code
+🚀  Building personal projects to sharpen full-stack skills
+```
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-
-#### Database & Tools
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,react,ts,js,mui,postgres,mssql,docker,git,azure,linux&perline=7" alt="Tech Stack" />
+</p>
 
 ---
 
-### 📫 Contact Me
+### 📊 GitHub Stats
 
-<p align="left">
-<a href="https://www.linkedin.com/in/ayburak/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:burakaynm@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
-</p>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Burakaynm&show_icons=true&theme=tokyo_night&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Burakaynm&theme=tokyo_night&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burakaynm&layout=compact&theme=tokyo_night&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project                                                               | Description                                                                       | Stack                                       |
+| :-------------------------------------------------------------------- | :-------------------------------------------------------------------------------- | :------------------------------------------ |
+| [**Portfolio**](https://github.com/Burakaynm/burakAy-portfolio)       | Personal portfolio website showcasing experience, skills, and projects            | `React` `TypeScript` `Tailwind CSS` `Vite`  |
+| [**BudgetFlow API**](https://github.com/Burakaynm/budgetflow-api)     | Personal budget tracking backend with income/expense management and Excel reports | `Python` `FastAPI` `SQLite` `SQLAlchemy`    |
+| [**TaskFlow API**](https://github.com/Burakaynm/taskflow-api)         | Spring Boot REST API for task management with status, priority, and due dates     | `Java` `Spring Boot` `PostgreSQL` `Swagger` |
+| [**Eclipse**](https://github.com/Burakaynm/eclipse-combat-calculator) | Monte Carlo combat calculator for Eclipse: Second Dawn for the Galaxy             | `React` `Vite` `JavaScript`                 |
+
+---
+
+### 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Burakaynm/Burakaynm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Burakaynm/Burakaynm/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Burakaynm/Burakaynm/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<div align="center">
+
+**Thanks for stopping by!** Feel free to reach out or explore my repositories.
+
+<img src="https://komarev.com/ghpvc/?username=Burakaynm&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+
+</div>
