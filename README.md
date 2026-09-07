@@ -21,8 +21,8 @@
 ```text
 🎓  Computer Engineering graduate
 💼  Software Engineer @ RDC Partner
-🔭  Working with React, TypeScript, .NET & SQL Server
-🌱  Learning Java, Spring Boot, Microservices & DevOps
+🔭  Working with Java, Spring Boot, React, TypeScript, .NET & SQL Server
+🌱  Learning DevOps
 🧠  Passionate about backend architecture & clean code
 🚀  Building personal projects to sharpen full-stack skills
 ```
